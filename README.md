@@ -6,8 +6,8 @@ Geohash es un sistema de geocodificación de dominio público, para simplificar 
 
 ## Contenido
 El repositorio incluye:
-- Creación de mapa de Geohash a distintos niveles *(Creacion_Mapa_Geohash.ipynb)*
-- Mapeo de cantón por Geohash, se considera el cantón que mayor área abarque en el Geohash *(Mapeo_Geohash_Canton_Mayor_Area.ipynb)*
+- Creación de mapa de Geohash a distintos niveles *(*/Creacion_Mapa_Geohash.ipynb)*
+- Mapeo de cantón por Geohash, se considera el cantón que mayor área abarque en el Geohash *(*/Mapeo_Geohash_Canton_Mayor_Area.ipynb)*
 
 ## Prerrequisitos
 Para ejecutar los notebook, necesitarás tener instaladas las siguientes bibliotecas de Python:
